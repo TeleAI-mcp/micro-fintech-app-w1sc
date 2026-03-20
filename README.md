@@ -1,2 +1,3 @@
-# micro-fintech-app-w1sc
+# Micro Fintech App W1Sc
+
 A financial technology application for modern development workflows.
